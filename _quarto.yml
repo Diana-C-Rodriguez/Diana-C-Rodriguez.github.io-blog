@@ -7,6 +7,8 @@ website:
     right:
       - href: blog.qmd
         text: blog
+      - href: about.qmd
+        text: about
       - icon: github
         href: https://github.com/Diana-C-Rodriguez.github.io
       - icon: twitter
