@@ -5,11 +5,13 @@ website:
   title: "Diana-C-Rodriguez.github.io-blog"
   navbar:
     right:
-      - blog.qmd
+      - href: blog.qmd
+        text: blog
       - icon: github
-        href: https://github.com/
+        href: https://github.com/Diana-C-Rodriguez.github.io
       - icon: twitter
         href: https://twitter.com
+     
 format:
   html:
     theme: cosmo
