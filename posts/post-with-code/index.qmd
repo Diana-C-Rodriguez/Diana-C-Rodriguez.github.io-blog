@@ -1,0 +1,7 @@
+---
+title: "Diana Rodriguez Blog"
+author: "Diana Rodriguez"
+date: "2022-09-16"
+categories: [personal blog, code, analysis]
+image: "image.jpg"
+---
